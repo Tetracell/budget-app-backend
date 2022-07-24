@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1"
+  },
+  "name": "budget-app-backend",
+  "version": "1.0.0",
+  "description": "Backend for budgeting app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tetracell/budget-app-backend.git"
+  },
+  "author": "Tom LaTulipe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tetracell/budget-app-backend/issues"
+  },
+  "homepage": "https://github.com/Tetracell/budget-app-backend#readme"
+}
