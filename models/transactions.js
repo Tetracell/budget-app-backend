@@ -7,10 +7,10 @@ module.exports = [
     category: "Income",
   },
   {
-    item_name: "",
-    amount: 0,
-    date: "",
-    from: "",
-    category: "",
+    item_name: "Pinball",
+    amount: 20,
+    date: "4/20/2020",
+    from: "The Sanctum",
+    category: "Expense",
   },
 ];
